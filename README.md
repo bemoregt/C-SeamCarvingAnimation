@@ -2,6 +2,12 @@
 
 An interactive content-aware image resizing application implemented with openFrameworks that uses the Seam Carving algorithm.
 
+## Examples
+
+![Seam Carving Example 1](R1280x0-8.png)
+
+![Seam Carving Example 2](R1280x0-9.png)
+
 ## Overview
 
 Seam Carving is an algorithm for content-aware image resizing that preserves important visual content while resizing images. Unlike traditional scaling methods that might distort important features, Seam Carving intelligently removes pixels of least importance.
